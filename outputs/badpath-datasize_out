@@ -1,0 +1,3 @@
+Error at line 19! Data element value exceeds the limits. i.e. is too large or too small to fit 10 bytes
+Error at line 25! Data element value exceeds the limits. i.e. is too large or too small to fit 10 bytes
+Detected errors at first pass in badpath-datasize input. Will not proceed to second pass.

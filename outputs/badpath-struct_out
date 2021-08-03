@@ -1,0 +1,17 @@
+Error at line 24! Illegal string in directive.
+Error at line 27! Data element is not an integer.
+Error at line 30! Data element is not an integer.
+Error at line 33! Illegal string in directive.
+Error at line 36! Data element is not an integer.
+Error at line 36! Illegal string in directive.
+Error at line 39! Missing data element.
+Error at line 39! Missing string argument in directive.
+Error at line 42! Missing string argument in directive.
+Error at line 45! Missing string argument in directive.
+Error at line 48! Excessive characters.
+Error at line 51! Excessive characters.
+Error at line 54! Invalid characters.
+Error at line 63! Invalid characters.
+Error at line 66! Invalid characters.
+Error at line 69! Invalid characters.
+Detected errors at first pass in badpath-struct input. Will not proceed to second pass.

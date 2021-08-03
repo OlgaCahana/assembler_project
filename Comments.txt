@@ -1,0 +1,11 @@
+1. According to the forum, the following line is legal, since all the leadinig white spaces have to be ignored:
+     label1:   sub r1,r7
+Thus in my solution this line is legal and the label is not ignored (unlike in badpath-pass1, case 18).
+
+
+2. In my solution, in label declaration, the dots must be followed by white space (one at least):
+i.e. this legal:
+LABEL: mov r1,r2
+
+this is illegal:
+LABEL:mov r1,r2

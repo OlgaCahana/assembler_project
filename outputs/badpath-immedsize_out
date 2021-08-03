@@ -1,0 +1,3 @@
+Error at line 19! Immediate operand value exceeds the limits. i.e too large or too small to fit 8 bytes.
+Error at line 25! Immediate operand value exceeds the limits. i.e too large or too small to fit 8 bytes.
+Detected errors at first pass in badpath-immedsize input. Will not proceed to second pass.
